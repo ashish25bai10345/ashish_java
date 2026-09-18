@@ -133,6 +133,6 @@ java Main
 
 ##  Author
 
-- **Name:** Nisha  
-- **Registration Number:** 24BAI10441  
+- **Name:** Ashish Rawat
+- **Registration Number:** 25BAI10345
 -  VIT Bhopal University  
